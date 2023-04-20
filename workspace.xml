@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="843a2096-4745-4896-92a2-8dbba440e9ad" name="Changes" comment="Added test cases">
+      <change afterPath="$PROJECT_DIR$/Desktop/Java/src/API/WebServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/javaclasslibraryenum/EnumVariableAndMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/javaclasslibraryenum/EnumVariableAndMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/javaclasslibrarytask/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/javaclasslibrarytask/OrderedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/javaclasslibrarytask/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/staticvariableandmethod/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/staticvariableandmethod/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/staticvariableandmethod/StaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/staticvariableandmethod/StaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/stringmethod/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/stringmethod/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/DeclarationInitializationAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/DeclarationInitializationAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/ModifyingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/ModifyingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/TraversingTwoDArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/twodimensionalarrays/TraversingTwoDArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/Java/src/variables/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/Java/src/variables/DataType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KgrR0sZtqtPtAWMdpegwUXMGfw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhay\Desktop\JavaLibrary\Desktop\Java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="ConvertToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectorientedjava.ConvertToString" />
+      <module name="JavaLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectorientedjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.FizzBuzz" />
+      <module name="JavaLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twodimensionalarrays.NestedLoop" />
+      <module name="JavaLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twodimensionalarrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraversingTwoDArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twodimensionalarrays.TraversingTwoDArrays" />
+      <module name="JavaLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twodimensionalarrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.WhileLoop" />
+      <module name="JavaLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.ConvertToString" />
+        <item itemvalue="Application.TraversingTwoDArrays" />
+        <item itemvalue="Application.NestedLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="843a2096-4745-4896-92a2-8dbba440e9ad" name="Changes" comment="" />
+      <created>1674407054836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674407054836</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java library">
+      <created>1674479656211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674479656211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cart task">
+      <created>1674631187175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674631187175</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cart task changes">
+      <created>1674820810439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674820810439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added add quantity and remove quantity">
+      <created>1675069256115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675069256115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added test cases">
+      <created>1675150002703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675150002705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java library" />
+    <MESSAGE value="Cart task" />
+    <MESSAGE value="Cart task changes" />
+    <MESSAGE value="Added add quantity and remove quantity" />
+    <MESSAGE value="Added test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added test cases" />
+  </component>
+</project>
